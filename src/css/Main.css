@@ -30,7 +30,7 @@
 .Box관리자용 {
   position: absolute;
   top: -5vw;
-  font-family: "Inter";
+  font-family: "IBM Plex Sans KR", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 2vw;
@@ -55,7 +55,7 @@
   position: absolute;
   top: 17vw;
   font-size: 2vw;
-  font-family: "Inter";
+  font-family: "IBM Plex Sans KR", sans-serif;
   font-style: normal;
   font-weight: 300;
 }

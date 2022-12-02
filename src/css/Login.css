@@ -23,6 +23,7 @@
   top: 5vw;
   font-weight: 700;
   font-size: 2vw;
+  font-family: "IBM Plex Sans KR", sans-serif;
 }
 
 .관리자용 {
@@ -30,6 +31,7 @@
   top: 7.5vw;
   font-weight: 100;
   font-size: 1.5vw;
+  font-family: "IBM Plex Sans KR", sans-serif;
 }
 
 .아이디 {
@@ -41,6 +43,7 @@
   border-radius: 5px;
   height: 2vw;
   text-align: center;
+  font-family: "IBM Plex Sans KR", sans-serif;
 }
 
 .로그인 {
@@ -54,8 +57,9 @@
   justify-content: center;
   width: 12vw;
   height: 2vw;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   border: 1px solid white;
   border-radius: 5px;
   color: white;
+  font-family: "IBM Plex Sans KR", sans-serif;
 }

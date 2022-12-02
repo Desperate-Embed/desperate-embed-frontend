@@ -11,7 +11,7 @@ export function Main() {
         <div className="Boxcenter">
           <span className="Box관리자용">관리자용</span>
           <div className="Boxspace">
-            <Link to="/Manage" style={{ textDecoration: "none" }}>
+            {/* <Link to="/Manage" style={{ textDecoration: "none" }}>
               <motion.div
                 className="Box"
                 whileHover={{ scale: 1.1 }}
@@ -22,7 +22,7 @@ export function Main() {
                   <span className="boxtext">하수구 관리</span>
                 </div>
               </motion.div>
-            </Link>
+            </Link> */}
             <Link to="/Location" style={{ textDecoration: "none" }}>
               <motion.div
                 className="Box"
@@ -35,7 +35,7 @@ export function Main() {
                 </div>
               </motion.div>
             </Link>
-            <Link to="/Check" style={{ textDecoration: "none" }}>
+            {/* <Link to="/Check" style={{ textDecoration: "none" }}>
               <motion.div
                 className="Box"
                 whileHover={{ scale: 1.1 }}
@@ -46,7 +46,7 @@ export function Main() {
                   <span className="boxtext">쓰레기 확인</span>
                 </div>
               </motion.div>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

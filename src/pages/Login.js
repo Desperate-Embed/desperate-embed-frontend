@@ -18,7 +18,7 @@ export function Login() {
           스마트배관공
           <br />
         </span>
-        <span className="관리자용">
+        <span className="관리자용"> 
           관리자용
           <br />
         </span>

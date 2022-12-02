@@ -20,7 +20,7 @@
 }
 
 .header스마트배관공 {
-  font-family: "Inter";
+  font-family: "IBM Plex Sans KR", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 2vw;
@@ -29,7 +29,7 @@
 
 .nav {
   color: black;
-  font-family: "Inter";
+  font-family: "IBM Plex Sans KR", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 1.5vw;
